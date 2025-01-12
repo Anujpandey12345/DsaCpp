@@ -34,3 +34,6 @@ int main(){
 	
 	return 0;
 }
+
+//This is array sorted  by using selection sort 
+//A to Z Dp
