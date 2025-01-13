@@ -11,4 +11,7 @@ int main(){
 		}
 	}
 	cout<<"The maximum is :: "<<max<<" ";
+	
+//	We can also find the maximum Element in sorted array by using the begin and end and return the arr.size()-1 (because
+//in sorted array we know the maximum element in the last so we use this method also .
 }
